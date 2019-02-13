@@ -1147,7 +1147,6 @@ public class DeviceTwinTest
         final Integer desiredVersion = 10;
 
         final String lastUpdated = "2016-06-01T21:22:43.123Z";
-        final Date lastUpdatedDate = new Date(1464816163123L);
         final Integer lastUpdatedVersion = 5;
 
         final String json =
