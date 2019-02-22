@@ -4,7 +4,7 @@
     <groupId>com.microsoft.azure.sdk.iot</groupId>
     <artifactId>iot-device-client</artifactId>
     <name>IoT Hub Java Device Client</name>
-    <version>1.15.0</version>
+    <version>1.15.0-iss</version>
     <description>The Microsoft Azure IoT Device SDK for Java</description>
     <url>http://azure.github.io/azure-iot-sdk-java/</url>
     <developers>
@@ -36,15 +36,9 @@
             <version>0.19</version>
         </dependency>
         <dependency>
-            <groupId>org.apache.qpid</groupId>
-            <artifactId>proton-j</artifactId>
-            <version>0.25.0</version>
-            <type>jar</type>
-        </dependency>
-        <dependency>
             <groupId>com.microsoft.azure.sdk.iot</groupId>
             <artifactId>iot-deps</artifactId>
-            <version>0.8.0</version>
+            <version>0.8.0-iss</version>
         </dependency>
         <dependency>
             <groupId>com.microsoft.azure</groupId>
